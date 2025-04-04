@@ -6,6 +6,23 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorodriguss&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
+### Sobre mim
+
+Tenho 20 anos e estou cursando o 5º semestre de Sistemas de Informação no Centro Universitário de Excelência - UNEX. 
+
+Busco minha primeira oportunidade na área de Desenvolvimento, com forte afinidade pelo back-end (especialmente criação de APIs REST) e interesse em explorar minha criatividade no front-end para desenvolver interfaces intuitivas.
+
+💡 **O que me motiva?**  
+Sou apaixonada por tecnologia e desafios! Estou sempre buscando novos aprendizados, explorando boas práticas e ferramentas que otimizem o desenvolvimento. Valorizo organização, eficiência e colaboração em equipe.
+
+### Experiência e Projetos
+
+Ao longo da minha trajetória, desenvolvi projetos como:
+
+- 🗝️ Gerenciador de Senhas Seguras (API REST com JWT)
+- 🛒 API Express com MongoDB Atlas (CRUD com autenticação)
+- ✅ Sistema Web para Lista de Tarefas (MySQL + front-end dinâmico)
+
 ## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -14,7 +31,6 @@
   <img align="center" alt="gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gio-mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="gio-node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  
 </div>
 
 ##
