@@ -27,7 +27,7 @@ Busco minha primeira oportunidade na área de Desenvolvimento, com foco no desen
 API RESTful com autenticação JWT, criptografia de senhas e geração de senhas personalizadas com base em requisitos específicos.  
 Tecnologias: Node.js, Express.js, Sequelize, MySQL, JWT, bcrypt
 
-📦 **[Cadastro de Itens com MongoDB Atlas]**  
+📦 **[Cadastro de Itens com MongoDB Atlas](https://github.com/FelipeBastosxj/Projeto-Express)**  
 Sistema backend com autenticação JWT, conexão com MongoDB Atlas e CRUD de itens protegidos.  
 Tecnologias: Node.js, Express.js, MongoDB Atlas, JWT, bcrypt
 
