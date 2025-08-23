@@ -8,14 +8,14 @@
 
 ### Sobre mim
 
-Tenho 20 anos e estou cursando o 5º semestre de Sistemas de Informação. 
+Tenho 20 anos e estou cursando o 6º semestre de Sistemas de Informação. 
 
 Busco minha primeira oportunidade na área de Desenvolvimento, com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
 
 ### 🚀 Habilidades Técnicas
 
-- **Back-end:** Node.js, Express.js, Sequelize, MySQL, MongoDB Atlas  
-- **Front-end:** JavaScript (ES6+), React.js, Tailwind CSS, HTML5, CSS3, Bootstrap  
+- **Back-end:** Node.js, Express.js, MySQL, MongoDB 
+- **Front-end:** JavaScript (ES6+), HTML5, CSS3, Bootstrap  
 - **Segurança:** Autenticação JWT, Criptografia com bcrypt  
 - **Outros:** APIs RESTful, Postman, Dotenv, Git/GitHub, ESlint, Prettier, Swagger, Figma
 
