@@ -10,7 +10,7 @@
 
 Tenho 20 anos e estou cursando o 6º semestre de Sistemas de Informação. 
 
-Busco minha primeira oportunidade na área de Desenvolvimento, com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
+Desenvolvedora Web com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
 
 ### 🚀 Habilidades Técnicas
 
