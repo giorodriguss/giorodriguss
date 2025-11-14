@@ -16,7 +16,7 @@ Desenvolvedora Web com foco no desenvolvimento de sistemas seguros, escaláveis 
 
 - **Back-end:** Node.js, Express.js, MySQL, MongoDB 
 - **Front-end:** JavaScript (ES6+), HTML5, CSS3, Bootstrap  
-- **Segurança:** Autenticação JWT, Criptografia com bcrypt  
+- **Segurança:** Autenticação JWT, Criptografia
 - **Outros:** APIs RESTful, Postman, Dotenv, Git/GitHub, ESlint, Prettier, Swagger, Figma
 
 ---
@@ -38,10 +38,6 @@ Tecnologias: Node.js, Express, MySQL, HTML, CSS, JavaScript
 🔍 **[Buscador de Perfis GitHub com React](https://github.com/giorodriguss/github-profile)**  
 Busca de perfis pela GitHub API, com tema claro e escuro.  
 Tecnologias: React.js, GitHub API, CSS.
-
-🛒 **[Avanti E-commerce Responsivo](https://github.com/giorodriguss/avanti-ecommerce)**  
-Site e-commerce responsivo com carrossel de produtos, sistema de categorias, newsletter e layout otimizado.  
-Tecnologias: HTML5, Tailwind CSS, JavaScript
 
 ---
 
