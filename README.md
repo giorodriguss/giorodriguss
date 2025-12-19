@@ -15,7 +15,7 @@ Desenvolvedora Web com foco no desenvolvimento de sistemas seguros, escaláveis 
 ### 🚀 Habilidades Técnicas
 
 - **Back-end:** Node.js, Express.js, MySQL, MongoDB 
-- **Front-end:** JavaScript (ES6+), HTML5, CSS3, Bootstrap  
+- **Front-end:** Vue.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
 - **Segurança:** Autenticação JWT, Criptografia
 - **Outros:** APIs RESTful, Postman, Dotenv, Git/GitHub, ESlint, Prettier, Swagger, Figma
 
