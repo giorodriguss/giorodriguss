@@ -1,12 +1,13 @@
 ## Olá! Me chamo Giovanna Rodrigues
 
-<a href="https://github.com/giorodriguss">
+<p align="center">
+  <a href="https://github.com/giorodriguss">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giorodriguss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/giorodriguss">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorodriguss&layout=compact&langs_count=16&theme=midnight-purple"/>
   </a>
-</div>
+</p>
 
 ### Sobre mim
 
