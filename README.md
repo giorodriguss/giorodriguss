@@ -1,10 +1,5 @@
 ## Olá! Me chamo Giovanna Rodrigues
 
-<p>
-  <img height="150em" src="https://stats-github.vercel.app/api?username=giorodriguss&show_icons=true&theme=midnight-purple"/>
-  <img height="150em" src="https://stats-github.vercel.app/api/top-langs/?username=giorodriguss&layout=compact&langs_count=16&theme=midnight-purple"/>
-</p>
-
 ### Sobre mim
 
 Tenho 20 anos e estou cursando o 7º semestre de Sistemas de Informação. 
