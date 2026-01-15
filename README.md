@@ -8,14 +8,14 @@
 
 ### Sobre mim
 
-Tenho 20 anos e estou cursando o 6º semestre de Sistemas de Informação. 
+Tenho 20 anos e estou cursando o 7º semestre de Sistemas de Informação. 
 
 Desenvolvedora Web com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
 
 ### 🚀 Habilidades Técnicas
 
 - **Back-end:** Node.js, Express.js, MySQL, MongoDB 
-- **Front-end:** Vue.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
+- **Front-end:** Vue.js, JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap  
 - **Segurança:** Autenticação JWT, Criptografia
 - **Outros:** APIs RESTful, Postman, Dotenv, Git/GitHub, ESlint, Prettier, Swagger, Figma
 
