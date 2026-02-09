@@ -4,7 +4,7 @@
 
 Tenho 20 anos e estou cursando o 7º semestre de Sistemas de Informação. 
 
-Desenvolvedora Web com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
+Desenvolvedora de Software com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
 
 ### 🚀 Habilidades Técnicas
 
