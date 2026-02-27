@@ -18,7 +18,7 @@ Desenvolvedora de Software com foco no desenvolvimento de sistemas seguros, esca
 ### 💼 Experiência e Projetos
 
 🤖 **[Finbox - Sistema de Triagem Inteligente de Emails](https://github.com/giorodriguss/finbox-triagem)**
-Sistema utiliza IA generativa + PNL para avaliar e-mails, analisar sentimento e urgência, extrair dados relevantes e gerar minutos de respostas prontas.
+Sistema que utiliza IA generativa + PNL para avaliar e-mails, analisar sentimento e urgência, extrair dados relevantes e gerar minutos de respostas prontas.
 Tecnologias: Python, HTML, TailwindCSS e consumo da IA do Gemini
 
 🔐 **[Chave Mestre – Gerador de Senhas Seguras](https://github.com/giorodriguss/chave-mestre)**  
@@ -56,6 +56,6 @@ Tecnologias: React.js, GitHub API, CSS.
 
 <div>
   <a href = "mailto:irodrigues708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanna-rodrigues-aa789a1b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/giorodriguss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
