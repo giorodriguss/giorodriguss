@@ -8,14 +8,18 @@ Desenvolvedora de Software com foco no desenvolvimento de sistemas seguros, esca
 
 ### 🚀 Habilidades Técnicas
 
-- **Back-end:** Node.js, Express.js, MySQL, MongoDB 
+- **Back-end:** Node.js, Express.js, MySQL, MongoDB, Python
 - **Front-end:** Vue.js, JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap  
 - **Segurança:** Autenticação JWT, Criptografia
-- **Outros:** APIs RESTful, Postman, Dotenv, Git/GitHub, ESlint, Prettier, Swagger, Figma
+- **Outros:** APIs RESTful, Postman, Dotenv, Git/GitHub, ESlint, Prettier, Swagger, Figma, IA API.
 
 ---
 
 ### 💼 Experiência e Projetos
+
+🤖 **[Finbox - Sistema de Triagem Inteligente de Emails](https://github.com/giorodriguss/finbox-triagem)**
+Sistema utiliza IA generativa + PNL para avaliar e-mails, analisar sentimento e urgência, extrair dados relevantes e gerar minutos de respostas prontas.
+Tecnologias: Python, HTML, TailwindCSS e consumo da IA do Gemini
 
 🔐 **[Chave Mestre – Gerador de Senhas Seguras](https://github.com/giorodriguss/chave-mestre)**  
 API RESTful com autenticação JWT, criptografia de senhas e geração de senhas personalizadas com base em requisitos específicos.  
