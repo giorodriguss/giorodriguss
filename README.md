@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Tenho 20 anos e estou cursando o 7º semestre de Sistemas de Informação. 
+Tenho 21 anos e estou cursando o 7º semestre de Sistemas de Informação. 
 
 Desenvolvedora de Software com foco no desenvolvimento de sistemas seguros, escaláveis e bem estruturados, além de interfaces modernas e intuitivas.
 
